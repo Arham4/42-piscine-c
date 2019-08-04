@@ -62,7 +62,7 @@ but the first exercise wrong, they would get a 0 for the day.**
 
 She could experience a time-out (a program never ending), a KO
 (an incorrect output), or a Norme-error. All projects are
-required to respect The Norm, which is a series of rules. For 
+required to respect The Norm, which is a set of rules. For 
 example, one may not have more than 25 lines in a function, a 
 line may not have more than 80 characters, a file may not have 
 more  than 5 functions, the declaration of all variables must 
