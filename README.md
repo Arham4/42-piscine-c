@@ -1,50 +1,50 @@
 # 42 Silicon Valley - Piscine C
 ### Projects Breakdown
 - **Harassment Policy** - Agreeing to never force somebody to 
-have tea when they don't want it ([credits](https://www.youtube.com/watch?v=oQbei5JGiT8)). -
- <span style="color:darkgreen">Succeeded with 100%</span>
-- **Day 00** - Basics of Unix - <span style="color:red">Failed with 0%</span>
-- **Day 01** - Basic bash scripts - <span style="color:red">Failed with 10%</span>
-- **Day 02** - Introduction to C - <span style="color:darkgreen">Succeeded with 65%</span>
-- **Day 03** - More Introduction to C - 
-<span style="color:darkgreen">Succeeded with 65%</span>
-- **Day 04** - Recursion - <span style="color:darkgreen">Succeeded with 50%</span>
+have tea when they don't want it ([credits](https://www.youtube.com/watch?v=oQbei5JGiT8)). - 
+![#98fb98](https://placehold.it/15/98fb98/000000?text=+) Succeeded with 100%
+- **Day 00** - Basics of Unix - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Failed with 0%
+- **Day 01** - Basic bash scripts - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Failed with 10%
+- **Day 02** - Introduction to C - ![#98fb98](https://placehold.it/15/98fb98/000000?text=+) Succeeded with 65%
+- **Day 03** - More Introduction to C - ![#98fb98](https://placehold.it/15/98fb98/000000?text=+)
+Succeeded with 65%
+- **Day 04** - Recursion - ![#98fb98](https://placehold.it/15/98fb98/000000?text=+) Succeeded with 50%
 - **Individual Project: Sastantua** - Make an ASCII-art pyramid 
 given the  amount of bases in the pyramid, with a door and a 
 door handle. Only about 3% of Pisciners have ever had success
-in this project. - <span style="color:darkgreen">Succeeded with 100%</span>
+in this project. - ![#98fb98](https://placehold.it/15/98fb98/000000?text=+) Succeeded with 100%
 - **Group Project: Rush 00** - Make an ASCII-art rectangle with
-a different pattern per group. - <span style="color:red">Failed with 0%</span>
-- **Day 05** - Review of C material - <span style="color:red">Failed with 10%</span>
-- **Day 06** - Program arguments - <span style="color:darkgreen">Succeeded with 100%</span>
-- **Day 07** - Pointers and arrays - <span style="color:darkgreen">Succeeded with 30%</span>
+a different pattern per group. - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Failed with 0%
+- **Day 05** - Review of C material - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Failed with 10%
+- **Day 06** - Program arguments - ![#98fb98](https://placehold.it/15/98fb98/000000?text=+) Succeeded with 100%
+- **Day 07** - Pointers and arrays - ![#98fb98](https://placehold.it/15/98fb98/000000?text=+) Succeeded with 30%
 - **Individual Project: Match-N-Match** - Traverse two strings and
 see if they match, while also respecting the REGEX wildcard symbol
-in the second string. - <span style="color:darkgreen">Succeeded with 100%</span>
+in the second string. - ![#98fb98](https://placehold.it/15/98fb98/000000?text=+) Succeeded with 100%
 - **Group Project: Rush 01** - Make a 9x9 Sudoku-board solver
-given an initial grid. - <span style="color:red">Failed with 29%</span>
-- **Day 08** - Header files and macros - <span style="color:darkgreen">Succeeded with 70%</span>
+given an initial grid. - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Failed with 29%
+- **Day 08** - Header files and macros - ![#98fb98](https://placehold.it/15/98fb98/000000?text=+) Succeeded with 70%
 - **Day 09** - A fun review day in which exercises unlocked
 every hour in a 24-hour time frame. Every assignment followed
-a story-line. - <span style="color:darkgreen">Succeeded with 48%</span>
-- **Day 10** - Makefiles and functional programming - <span style="color:red">Failed with 0%</span>
-- **Day 11** - Linked lists - <span style="color:red">Failed with 21%</span>
-- **Day 12** - Recreating bash scripts in C - <span style="color:darkgreen">Succeeded with 50%</span>
+a story-line. - ![#98fb98](https://placehold.it/15/98fb98/000000?text=+) Succeeded with 48%
+- **Day 10** - Makefiles and functional programming - Failed with 0%
+- **Day 11** - Linked lists - Failed with 21%
+- **Day 12** - Recreating bash scripts in C - ![#98fb98](https://placehold.it/15/98fb98/000000?text=+) Succeeded with 50%
 - **Day 13** - Binary trees, Binary search trees, and 
-Red-Black trees - <span style="color:darkgreen">Succeeded with 30%</span>
+Red-Black trees - ![#98fb98](https://placehold.it/15/98fb98/000000?text=+) Succeeded with 30%
 - **Individual Project: EvalExpression** - Make a calculator
 that respects the rules of PEMDAS (or BODMAS) for a given expression
-that may or may not have white-spaces. - <span style="color:red">Failed with 0%</span>
+that may or may not have white-spaces. - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Failed with 0%
 - **Group Project: Rush 02** - Make a program that is a 
 Rush-00-identifier. The program should take in input from
 the standard input and identify which sub-Rush-00 project
-was executed. - <span style="color:darkgreen">Succeeded with 100%</span>
+was executed. - ![#98fb98](https://placehold.it/15/98fb98/000000?text=+) Succeeded with 100%
 - **BSQ** - Find the largest square in a 2-dimensional character
 matrix and mark it with a given "fill" character. The program
 should read from both standard input and from files. Grading
 was done not only by functionality, but by the efficiency of
 the program in both speed and memory. Only about 1% of Pisciners
-have ever had success in this project. - <span style="color:red">Failed with 0%</span>
+have ever had success in this project. - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Failed with 0%
 
 ### Grading at 42
 Grading is done by an auto-grader called Moulinette. "She" 
