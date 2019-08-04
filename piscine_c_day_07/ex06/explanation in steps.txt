@@ -1,0 +1,4 @@
+	// step 1, convert *nbr to readable integer key interpretted from *base_from
+	// step 2, convert the base from to decimal
+	// step 3, convert the decimal to the base to
+	// step 4, print out base to interpretted from *base_to
