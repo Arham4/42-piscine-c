@@ -1,0 +1,3 @@
+/* 
+ * 0=row1=cols,2=sectional left,3cut off6=section7=offset 
+ */
