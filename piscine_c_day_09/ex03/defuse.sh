@@ -1,0 +1,1 @@
+touch -A '-000001' 'bomb.txt' | find bomb.txt -exec stat -f "%a%t%Sm %N" {} + | awk '{print($1)}'
