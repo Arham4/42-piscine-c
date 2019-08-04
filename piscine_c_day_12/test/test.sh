@@ -1,0 +1,30 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+./program-name | awk "{if (NR == 1) print $1}" | wc -c | awk '{ print $1 " - 1" }' | bc
+./program-name | wc -l | xargs
