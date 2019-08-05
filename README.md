@@ -157,7 +157,7 @@ door handle. Only about 3% of Pisciners have ever had success
 in this project. - ![#98fb98](https://placehold.it/15/98fb98/000000?text=+) Succeeded with 100%
 - **Group Project: Rush 00** - Make an ASCII-art rectangle with
 a different pattern per group. - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Norme error - Failed with 0%
-- **Day 05** - Review of C material - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Failed with 10%
+- **Day 05** - Review of C material
 ```diff
 - Failed with 10%
 + ex00: OK 
