@@ -27,8 +27,8 @@ given an initial grid. - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+
 - **Day 09** - A fun review day in which exercises unlocked
 every hour in a 24-hour time frame. Every assignment followed
 a story-line. - ![#98fb98](https://placehold.it/15/98fb98/000000?text=+) Succeeded with 48%
-- **Day 10** - Makefiles and functional programming - Failed with 0%
-- **Day 11** - Linked lists - Failed with 21%
+- **Day 10** - Makefiles and functional programming - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Failed with 0%
+- **Day 11** - Linked lists - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Failed with 21%
 - **Day 12** - Recreating bash scripts in C - ![#98fb98](https://placehold.it/15/98fb98/000000?text=+) Succeeded with 50%
 - **Day 13** - Binary trees, Binary search trees, and 
 Red-Black trees - ![#98fb98](https://placehold.it/15/98fb98/000000?text=+) Succeeded with 30%
@@ -45,6 +45,8 @@ should read from both standard input and from files. Grading
 was done not only by functionality, but by the efficiency of
 the program in both speed and memory. Only about 1% of Pisciners
 have ever had success in this project. - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Failed with 0%
+
+Final Piscine level: **7.4**
 
 ### Grading at 42
 Grading is done by an auto-grader called Moulinette. "She" 
